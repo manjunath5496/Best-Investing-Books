@@ -26,6 +26,24 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(15).pdf" style="text-decoration:none;">The Four Pillars of Investing</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(16).pdf" style="text-decoration:none;">The Richest Man In Babylon</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(17).pdf" style="text-decoration:none;">When Genius Failed: The Rise and Fall of Long Term Capital Management </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(18).pdf" style="text-decoration:none;">Flash Boys: A Wall Street Revolt</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(19).pdf" style="text-decoration:none;">Irrational Exuberance</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(20).pdf" style="text-decoration:none;">Stock Investing For Dummies </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(21).pdf" style="text-decoration:none;">Bogleheads' Guide to Investing </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(22).pdf" style="text-decoration:none;">The Big Short: Inside the doomsday machine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(23).pdf" style="text-decoration:none;">What Works on Wall Street</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(24).pdf" style="text-decoration:none;">MONEY Master the Game: 7 Simple Steps to Financial Freedom</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(25).pdf" style="text-decoration:none;">Principles: Life and Work </a></b></li>
+
 
 
 
